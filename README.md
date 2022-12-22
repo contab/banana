@@ -1,2 +1,2 @@
 # banana
-bayerischer Apothekenotdienstanzeigeautomat
+bayerischer Apothekennotdienstanzeigeautomat
