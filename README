@@ -1,1 +1,4 @@
 This is BANANA: Bayerischer ApothekenNotdienstANzeigeAutomat
+The data about the available emrgency pharmacies are open data. AVOXA offers a chargeable API-solution for pharmacies and websites.
+These snippets allow to use the existing API from BLAK (Bayerische Landesapothekerkammer) to query in time.
+The snippets might be used for pharmacy webistes, information panels and so on.
